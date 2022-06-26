@@ -1,9 +1,13 @@
-# Project_NaegaHama
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frlaalsrl715%2Fnaegahama%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # 내가하마!(naegahama!)
 <img src="https://user-images.githubusercontent.com/97504973/160697352-e59ea41b-cd20-4055-a965-027fc793e4e8.svg" height="300px" width="300px">
+<br>
+<br>
+
+# 팀원 정보
+<img src="https://user-images.githubusercontent.com/97504973/160319606-2546e616-a20a-43ed-8a24-4144a927301d.png" height="80%" width="80%">
 <br>
 <br>
 
@@ -132,3 +136,9 @@ JPA를 기본으로하여 Spring Data Jpa를 이용하여 쿼리를 작성하였
 Demo link : https://youtu.be/lvdoXEwSOqY
 
 Notion link : https://harsh-peony-7f5.notion.site/HAMA-aa12dc751645442abf62c472ebd9ffb4
+
+
+#  개인회고록(자유롭게 작성)💬.
+
+
+
